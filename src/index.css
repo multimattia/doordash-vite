@@ -1,0 +1,8 @@
+body,
+html {
+  font-family: system, -apple-system, BlinkMacSystemFont, "Helvetica Neue",
+    "Lucida Grande";
+  background: white;
+  padding: 1rem;
+  line-height: 1.6;
+}
